@@ -1,0 +1,61 @@
+html,
+body {
+    background-color: #3A060A;
+}
+
+#brand-container {
+    min-height: 60%;
+}
+
+#brand-text {
+    font-size: 32px;
+    margin: 0;
+}
+
+#controls-container {
+    min-height: 30%;
+}
+
+#error-message {
+    width: auto;
+    min-width: 320px;
+    max-width: 500px;
+    margin: auto;
+    height: 50px;
+    text-align: center;
+}
+
+#error-message-container {
+    height: 90px;
+    padding: 20px;
+}
+
+#login-form-container {
+    padding: 10px;
+    margin: 0 auto 0;
+    width: 320px;
+    height: 420px;
+}
+
+#plm-seal {
+    display: block;
+    margin: 10px auto 10px;
+    width: 224px;
+    height: 224px;
+}
+
+#signinButton {
+    display: block;
+    margin: 20px auto 0;
+    width: 250px;
+}
+
+.center-text {
+    text-align: center;
+}
+
+.no-border-radius {
+    border-radius: 0;
+}
+
+

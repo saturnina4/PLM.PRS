@@ -1,0 +1,26 @@
+.custom {
+	border-radius: 0 !important;
+}
+
+.no-border-radius {
+	border-radius: 0 !important;
+}
+
+.action-button {
+    display: block;
+    padding: 5px;
+    width: 50%;
+    margin: 0 auto 0;
+}
+
+.cell-content,
+.cell-content-right {
+    height: 32px;
+    line-height: 32px;
+    margin: 0;
+    white-space: nowrap;
+}
+
+.cell-content-right {
+    text-align: right;
+}

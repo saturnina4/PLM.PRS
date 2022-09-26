@@ -1,0 +1,29 @@
+#empExcludedList {
+    min-height: 120px;
+}
+
+#empNumExcluded {
+    width: 85%;
+}
+
+#mainForm {
+	width: 100%;
+}
+
+#overrideWarning {
+	border-left: 5px solid #F39C12;
+	margin-bottom: 10px;
+}
+
+.override-bold-label {
+	width: 20% !important;
+	font-weight: normal !important;
+}
+
+.textbox-side-button {
+	width: 15%;
+}
+
+.textbox-has-button-container {
+	width: 100%;
+}

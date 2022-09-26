@@ -1,0 +1,17 @@
+.box-content-padding {
+    height: 425px;
+}
+
+.dashboard-content {
+    width: 100%;
+    transform: translateY(50%);
+}
+
+.fa-15x {
+    font-size: 15em;
+}
+
+.text-align-center {
+  display: block;
+  text-align: center;
+}

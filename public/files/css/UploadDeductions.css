@@ -1,0 +1,8 @@
+#submit {
+	float: right;
+}
+
+.override {
+	width: 30% !important;
+	font-weight: normal !important;
+}

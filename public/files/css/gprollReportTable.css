@@ -1,0 +1,19 @@
+.table-custom {
+
+}
+
+th {
+	text-align: center;
+}
+
+.td-align-right {
+	text-align: right;
+}
+
+#tableContainer {
+	width: 100%;
+	height: 100%;
+
+}
+
+

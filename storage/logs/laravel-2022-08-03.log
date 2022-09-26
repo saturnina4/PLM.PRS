@@ -1,0 +1,17 @@
+[2022-08-03 11:01:42] production.INFO: HTTP/1.0 302 Found
+Cache-Control: no-cache, private
+Date:          Wed, 03 Aug 2022 03:01:42 GMT
+Location:      https://web2.plm.edu.ph/prs/gp/report/view/id/4f3592f1599a7c939dfc22719031fd59
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="refresh" content="1;url=https://web2.plm.edu.ph/prs/gp/report/view/id/4f3592f1599a7c939dfc22719031fd59" />
+
+        <title>Redirecting to https://web2.plm.edu.ph/prs/gp/report/view/id/4f3592f1599a7c939dfc22719031fd59</title>
+    </head>
+    <body>
+        Redirecting to <a href="https://web2.plm.edu.ph/prs/gp/report/view/id/4f3592f1599a7c939dfc22719031fd59">https://web2.plm.edu.ph/prs/gp/report/view/id/4f3592f1599a7c939dfc22719031fd59</a>.
+    </body>
+</html>  

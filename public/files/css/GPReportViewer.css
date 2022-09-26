@@ -1,0 +1,18 @@
+#downloadButton {
+    clear: right;
+    float: right;
+}
+
+.btn-no-border-radius {
+    border-radius: 0;
+}
+
+.table-data-right-align {
+    text-align: right;
+}
+
+.table-custom {
+    min-width: 150px;
+}
+
+
